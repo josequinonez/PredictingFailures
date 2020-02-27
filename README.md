@@ -10,5 +10,7 @@ There are two approaches:
 #### Dataset
 https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan
 
+This exercise uses the second data set.
+
 #### Source code:
 https://towardsdatascience.com/machine-learning-for-anomaly-detection-and-condition-monitoring-d4614e7de770
